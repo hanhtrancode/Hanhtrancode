@@ -8,5 +8,5 @@ Tôi là người yêu thích sự phân tích. W. Edwards Deming đã từng n�
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/fb338413-d58d-4c4d-8f74-9cc7a87c34f2" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/bb1156dd-0842-4c46-877d-bf110e012dc8" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/714a2d21-6f1a-4430-9576-4ba8eb3e9b4b" />
